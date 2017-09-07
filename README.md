@@ -1,11 +1,12 @@
-# Artificial_Intelligent-BreakOut_Game_Agent
+## Artificial_Intelligent-BreakOut_Game_Agent
+Breakout game played with A3C Intuition.
 
-#Install OpenAI:
+# Install OpenAI:
 
 git clone https://github.com/openai/gym
 cd gympip install -e .  
 
-#Install OpenCV:
+# Install OpenCV:
 
 conda install -c menpo opencv=2.4.11
 
