@@ -2,9 +2,9 @@
 
 #Install OpenAI:
 
-git clone https://github.com/openai/gymcd gympip install -e .  #minimal install
+git clone https://github.com/openai/gymcd gympip install -e .  
 
-# Install OpenCV (https://anaconda.org/menpo/opencv):
+#Install OpenCV:
 
 conda install -c menpo opencv=2.4.11
 
