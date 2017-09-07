@@ -10,6 +10,6 @@ cd gympip install -e .
 
 conda install -c menpo opencv=2.4.11
 
-#Install ffmpeg to get the videos in a folder:
+# Install ffmpeg to get the videos in a folder:
 
 conda install -c conda-forge ffmpeg=3.2.4 
