@@ -2,7 +2,8 @@
 
 #Install OpenAI:
 
-git clone https://github.com/openai/gymcd gympip install -e .  
+git clone https://github.com/openai/gym
+cd gympip install -e .  
 
 #Install OpenCV:
 
